@@ -1,5 +1,5 @@
-# 💫 About Me:
-# 🚀 Hey, I'm Nabeel<br><br>I'm a passionate learner diving into the world of programming.  <br>Currently building small projects and improving my coding skills daily.<br><br>### 🌱 Learning Journey<br>✔ Frontend Development  <br>✔ Backend Basics  <br>✔ Problem Solving  <br><br>⚡ “Code. Practice. Improve. Repeat.”
+> 💫 About Me:
+> 🚀 Hey, I'm Nabeel<br><br>I'm a passionate learner diving into the world of programming.  <br>Currently building small projects and improving my coding skills daily.<br><br>### 🌱 Learning Journey<br>✔ Frontend Development  <br>✔ Backend Basics  <br>✔ Problem Solving  <br><br>⚡ “Code. Practice. Improve. Repeat.”
 
 
 ## 🌐 Socials:
