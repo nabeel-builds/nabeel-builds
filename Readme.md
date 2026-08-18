@@ -1,18 +1,52 @@
-# 💫 About Me:
-# 🚀 Hey, I'm Nabeel<br><br>I'm a passionate learner diving into the world of programming.  <br>Currently building small projects and improving my coding skills daily.<br><br> 🌱 Learning Journey<br>✔ Frontend Development  <br>✔ Backend Basics  <br>✔ Problem Solving  <br><br>⚡ “Code. Practice. Improve. Repeat.”
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full%20Stack%20developer;React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7;Making%20the%20web%20beautiful%20%E2%9C%A8)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nabeel-ahmad-8a818a384/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Nabeeel0786) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nabeelahmadoff@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nabeel-builds&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nabeel-builds&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel-builds&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 👋 Hi, I'm Alex Chen!
 
----
-[![](https://visitcount.itsvg.in/api?id=nabeel-builds&icon=0&color=0)](https://visitcount.itsvg.in)
+> Building beautiful, performant web experiences
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌟 About Me
+
+- 🔭 **Currently building:** a React component library with zero dependencies
+- 🌱 **Learning:** Three.js and WebGL shaders
+- 👯 **Open to:** open-source UI projects
+- ⚡ **Fun fact:** I can name every CSS pseudo-selector from memory
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-a3b234?style=for-the-badge) ![Html](https://img.shields.io/badge/Html-3492b2?style=for-the-badge) ![Css](https://img.shields.io/badge/Css-b26c34?style=for-the-badge)
+
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-b034b2?style=for-the-badge) ![Framer](https://img.shields.io/badge/Framer-b24b34?style=for-the-badge)
+
+**Tools & DevOps:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/Github-34b23e?style=for-the-badge) ![Figma](https://img.shields.io/badge/Figma-a9b234?style=for-the-badge) ![Vercel](https://img.shields.io/badge/Vercel-3464b2?style=for-the-badge) ![Render](https://img.shields.io/badge/Render-3462b2?style=for-the-badge) ![Canva](https://img.shields.io/badge/Canva-3460b2?style=for-the-badge) ![VS Code](https://img.shields.io/badge/VS%20Code-3444b2?style=for-the-badge) ![Cursor](https://img.shields.io/badge/Cursor-b28434?style=for-the-badge)
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Alex Chen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabeel-builds&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabeel-builds&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel-builds&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabeel-ahmad-6b4133413/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/https://x.com/UndefinedNabeel)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabeelahmadoff@gmail.com)
+
+</div>
