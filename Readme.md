@@ -4,16 +4,15 @@
 
 </div>
 
-# 👋 Hi, I'm Nabeel!
+# 🚀 Hey there, I'm Nabeel
 
-> Building beautiful, performant web experiences
+> Building things that matters
 
 ## 🌟 About Me
 
-- 🔭 **Currently building:** a React component library with zero dependencies
-- 🌱 **Learning:** Three.js and WebGL shaders
-- 👯 **Open to:** open-source UI projects
-- ⚡ **Fun fact:** I can name every CSS pseudo-selector from memory
+- 🔭 **Currently building:** Working on new technologies like AWS, Docker etc.
+- 🌱 **Learning:** Problem Solving Skills
+- ⚡ **Fun fact:** My favorite part of development is seeing an idea go from “what if…” to a deployed website.
 
 ## 🛠️ Tech Stack
 
